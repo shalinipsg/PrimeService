@@ -1,0 +1,6 @@
+com/shacheru/primesservice/Controller/HomesController.class
+com/shacheru/primesservice/Security/KeyGeneratorUtils.class
+com/shacheru/primesservice/Service/IPrimeService.class
+com/shacheru/primesservice/Service/PrimesService.class
+com/shacheru/primesservice/Security/SecurityConfig.class
+com/shacheru/primesservice/Security/Jwks.class
